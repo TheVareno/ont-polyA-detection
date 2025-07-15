@@ -1,5 +1,5 @@
 
-# Segmentation of ONT Raw Signal of Transcriptomic Data for Detection of Poly(A) Region  
+# Segmentation of ONT Raw Signal of Data for Detecting Poly(A) Region  
 
 ## Overview 
 
